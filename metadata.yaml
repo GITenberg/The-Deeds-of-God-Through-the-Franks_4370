@@ -1,0 +1,32 @@
+_repo: The-Deeds-of-God-Through-the-Franks_4370
+_version: 0.0.1
+alternative_title: Gesta Dei per Francos. English
+contributor:
+  translator:
+    agent_name: Levine, Robert
+    birthdate: 1933
+    gutenberg_agent_id: '1469'
+    url: http://www.gutenberg.org/2009/agents/1469
+creator:
+  author:
+    agent_name: Guibert, Abbot of Nogent-sous-Coucy
+    alias: Nogent, Guibert de
+    birthdate: 1053
+    gutenberg_agent_id: '1468'
+    url: http://www.gutenberg.org/2009/agents/1468
+    wikipedia: http://en.wikipedia.org/wiki/Guibert_of_Nogent
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4370'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Crusades -- First, 1096-1099'
+- !lcc 'D'
+- GITenberg
+title: The Deeds of God Through the Franks
+url: http://www.gutenberg.org/ebooks/4370
